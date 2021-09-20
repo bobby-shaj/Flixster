@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250>https://github.com/bobby-shaj/Flixster/blob/master/walkthrough_part_2.gif<br>
+<img src="https://imgur.com/NrNUfXY" width=250><br>
 
 ### Notes
 
